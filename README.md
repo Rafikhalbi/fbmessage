@@ -1,3 +1,8 @@
+# install module
+```
+pip install git+https://github.com/Rafikhalbi/fbmessage
+```
+
 # example how to use
 
 ```PYTHON

@@ -18,7 +18,7 @@ password = 'password'
 login = fbmessage.Generete_cookie(username, password).login()
 
 # or
-login = 'datrxxxxxxxxxxxxxxxx' # youre facebook cookie
+# login = 'datrxxxxxxxxxxxxxxxx' # youre facebook cookie
 
 # check valid cookie, if valid return True
 check = fbmessage.Check(login).check_login()
